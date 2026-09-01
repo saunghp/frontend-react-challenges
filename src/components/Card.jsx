@@ -1,7 +1,5 @@
 import React from "react";
-
 function Card({ title, timeframes, timeframeState })  {
-  const { timeframes } = item;
   const lowercase = timeframeState.toLowerCase();
   const timeframe = timeframes[lowercase];
   return (
