@@ -1,0 +1,102 @@
+{
+  "socialProfiles": [
+    {
+      "handle": "@nathanf",
+      "followers": 1987,
+      "type": "Followers",
+      "changeToday": 12,
+      "trend": "up",
+      "media":"/images/icon-facebook.svg",
+      "isArrowUp": true,
+      "border":"border-t-Blue-500"
+    },
+    {
+      "handle": "@nathanf",
+      "followers": 1044,
+      "type": "Followers",
+      "changeToday": 99,
+        "trend": "up",
+        "media":"/images/icon-twitter.svg",
+        "isArrowUp": true,
+        "border":"border-t-Blue-500"
+    },
+    {
+      "handle": "@realnathanf",
+      "followers": "11k",
+      "type": "Followers",
+      "changeToday": 1099,
+        "trend": "up",
+        "media":"/images/icon-instagram.svg",
+        "isArrowUp": true,
+        "border":"border-t-Red-500"
+    },
+    {
+      "handle": "Nathan F.",
+      "followers": 8239,
+      "type": "Subscribers",
+      "changeToday": 144,
+        "trend": "down",
+        "media":"/images/icon-youtube.svg",
+        "isArrowUp": false,
+         "border":"border-t-Red-700"
+    }
+  ],
+  "overviewToday": [
+      {
+        "label": "Page Views",
+        "value": 87,
+        "change": "3%",
+        "media":"/images/icon-facebook.svg",
+        "isArrowUp": true
+      },
+      {
+        "label": "Likes",
+        "value": 52,
+        "change": "2%",
+        "media":"/images/icon-facebook.svg",
+        "isArrowUp": false
+      },
+      {
+        "label": "Likes",
+        "value": 5462,
+        "change": "2257%",
+        "media":"/images/icon-instagram.svg",
+        "isArrowUp": true
+      },
+      {
+        "label": "Profile Views",
+        "value": "52k",
+        "change": "1375%",
+        "media":"/images/icon-instagram.svg",
+        "isArrowUp": true
+      },
+      {
+        "label": "Retweets",
+        "value": 117,
+        "change": "303%",
+        "media":"/images/icon-twitter.svg",
+        "isArrowUp": true
+      },
+      {
+        "label": "Likes",
+        "value": 507,
+        "change": "553%",
+        "media":"/images/icon-twitter.svg",
+        "isArrowUp": true
+      },
+      {
+        "label": "Likes",
+        "value": 107,
+        "change": "19%",
+        "media":"/images/icon-youtube.svg",
+        "isArrowUp": false
+      },
+      {
+        "label": "Total Views",
+        "value": 1407,
+        "change": "12%",
+        "media":"/images/icon-youtube.svg",
+        "isArrowUp": false
+      }
+    ]
+  }
