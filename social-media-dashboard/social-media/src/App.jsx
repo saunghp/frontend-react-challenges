@@ -12,15 +12,17 @@ function App() {
     <>
       <div className={`min-h-screen bg-bg ${isDarkMode ? "dark" : ""}`}>
         <div className="max-w-5xl mx-auto px-6 py-10">
-          <div className={`flex justify-between mb-4 text-text`}>
+          <div className={`md:flex flex-row justify-between items-center mb-8 text-text`}>
+    
             <div>
-              <h2 className="text-2xl font-bold text-text ">
+              <h1 className="text-2xl font-bold text-text ">
                 Social Media Dashboard
-              </h2>
+              </h1>
               <p className="text-text mb-4">Total Followers: 23,004</p>
             </div>
+            <hr className="mb-5 border-bg-text"></hr>
 
-            <div className={"flex items-center gap-3"}>
+            <div className={"flex justify-between items-center gap-3"}>
               <span className="text-sm text-text font-bold">Dark Mode</span>
 
               <Switch
